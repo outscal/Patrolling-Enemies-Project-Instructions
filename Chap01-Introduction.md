@@ -33,7 +33,7 @@ Let's get deep into it then and see how unity can be used to create such an inte
 
 The various steps involved in this project:
 - Create or assemble assets
-- Add the objects iin scene to create a platform
+- Add the objects in scene to create a platform
 - Add enemy objects to at different positions
 - Add a C# script with the enemy movement logic
 
