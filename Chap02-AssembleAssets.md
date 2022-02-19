@@ -24,6 +24,10 @@ Once the models or pictures are imported, you can use the Sprite Renderer compon
 
 ![Sprite_Rend](https://user-images.githubusercontent.com/44625252/154814049-7d8020e3-582b-4d10-bd17-bf9269b5e448.png)
 
-See you in the next chapter!
+Once the Renderer component is added to your GameObject, you can drag and drop the image to the slot called 'Sprite' to render the image onto the scene.
+
+![DnDSprite](https://user-images.githubusercontent.com/44625252/154814154-cb153ec4-85b8-4741-84c4-bdcf319b2099.png)
+
+Alright, See you in the next chapter!
 
 ![](https://media.giphy.com/media/1hM5lua4GiHG7ERsfA/giphy.gif)
