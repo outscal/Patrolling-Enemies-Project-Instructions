@@ -20,7 +20,7 @@ Once the models or pictures are imported, you can use the Sprite Renderer compon
 
 ![Add_empty](https://user-images.githubusercontent.com/44625252/154814041-77b0ce88-5083-4dea-bcf5-618e5f7dbfe5.png)
 
-![Add_empty](https://user-images.githubusercontent.com/44625252/154814057-413dd236-b7c0-40d4-a8a1-e6f687961f1a.png)
+![Add_component](https://user-images.githubusercontent.com/44625252/154814079-e70f5fd7-5d6c-400f-a80b-eeb9c0d23904.png)
 
 ![Sprite_Rend](https://user-images.githubusercontent.com/44625252/154814049-7d8020e3-582b-4d10-bd17-bf9269b5e448.png)
 
