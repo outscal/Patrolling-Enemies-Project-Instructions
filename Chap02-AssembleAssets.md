@@ -14,6 +14,16 @@ For any created models, you can use the import function to get any model inside 
 
 ![ImportAsset](https://user-images.githubusercontent.com/44625252/154813197-ca8e48f5-b228-46ce-86ef-f88dbcee8dc2.png)
 
+# Sprite Renderer
+
+Once the models or pictures are imported, you can use the Sprite Renderer component for any gameobject to render the sprite onto the GameObject. Click on "Add Component" -> "Sprite Renderer" in the inspector after adding an Emmpty Gameobject.
+
+![Add_empty](https://user-images.githubusercontent.com/44625252/154814041-77b0ce88-5083-4dea-bcf5-618e5f7dbfe5.png)
+
+![Add_empty](https://user-images.githubusercontent.com/44625252/154814057-413dd236-b7c0-40d4-a8a1-e6f687961f1a.png)
+
+![Sprite_Rend](https://user-images.githubusercontent.com/44625252/154814049-7d8020e3-582b-4d10-bd17-bf9269b5e448.png)
+
 See you in the next chapter!
 
 ![](https://media.giphy.com/media/1hM5lua4GiHG7ERsfA/giphy.gif)
