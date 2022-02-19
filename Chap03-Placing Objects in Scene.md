@@ -20,4 +20,4 @@ Or use the mouse click, drag and drop options
 
 In the next chapter, we will see how to attach a script to these objects such that the enemies keeep moving in a specified manner.
 
-![](https://media.giphy.com/media/1hM5lua4GiHG7ERsfA/giphy.gif)
+![](https://media.giphy.com/media/3o7TKBcOTDTFR6gn6M/giphy.gif)
