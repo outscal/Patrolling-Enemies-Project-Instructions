@@ -34,4 +34,6 @@ Finally, if there are enemies that are crossing each other, then we can change t
 
 ![CollisionMatrixEnemy](https://user-images.githubusercontent.com/44625252/154815000-b6ed2480-735b-41ed-88a0-f3ab501f03a7.png)
 
-Hope you enojoyed this. Feel free to try out different types of moving enemies for your game.
+Hope you enjoyed this. Feel free to try out different types of moving enemies for your game.
+
+![](https://media.giphy.com/media/8VITX7wfegOSFWwnCH/giphy.gif)
