@@ -6,7 +6,7 @@ The assets for your game will depend on your vision of the game.
 
 There is a huge library of assets that are available online for free. You can also use the Unity asset store here : [Unity Asset Store](https://assetstore.unity.com)
 
-In the project repository, you will find some free assets that you can use as well in the branch called Problem-Statement, of course you can inport any other models too.
+In the project repository, you will find some free assets that you can use as well in the branch called Problem-Statement, of course you can import any other models too.
 
 # Importing Assets
 
