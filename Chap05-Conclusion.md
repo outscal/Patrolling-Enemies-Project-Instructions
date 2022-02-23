@@ -1,6 +1,6 @@
 # Showcase To The World!
 
-Whoohoooo!!! You did it.
+Woohoooo!!! You did it.
 
 ![](https://media.giphy.com/media/S6Hyy3F1bd90uMYDXj/giphy.gif)
 
