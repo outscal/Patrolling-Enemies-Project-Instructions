@@ -37,5 +37,17 @@ The various steps involved in this project:
 - Add enemy objects to at different positions
 - Add a C# script with the enemy movement logic
 
+## Enroll yourself and get rewarded when you complete the course 🎁
+
+As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Enroll yourself for the course by filling the form linked to the gif below and start earning your points
+
+**Click on the gif below and follow the instructions** ⏬
+
+[![Click me!](https://media.giphy.com/media/iKBAAfYNDu1dowhnEj/giphy.gif)](https://airtable.com/shrY0mnlrnJXaZjps)
+
+You can also click here - [Click Here!](https://airtable.com/shrY0mnlrnJXaZjps)
+
+*We will look into how to make Patrolling Enemies in much detail from the next section. 👉*
+
 ![](https://media.giphy.com/media/0azaVdJMRil21nFUqV/giphy.gif)
 
