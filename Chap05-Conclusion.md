@@ -6,6 +6,8 @@ Woohoooo!!! You did it.
 
 See how easy that was.
 
+If you're stuck at somewhere then hold our hand buddy. We got you something. Check this 👉 [Repo](https://github.com/outscal/Patrolling-Enemies).
+
 ## Earn Learning points to get more rewards 🎁
 
 As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Free stuff to learn stuff, crazy right?
