@@ -6,7 +6,7 @@ Woohoooo!!! You did it.
 
 See how easy that was.
 
-If you're stuck at somewhere then hold our hand buddy. We got you something. Check this 👉 [Repo](https://github.com/outscal/Patrolling-Enemies).
+If you're stuck at somewhere then hold our hand buddy. We got you something. Check this 👉 [Repo](https://github.com/outscal/Patrolling-Enemies/tree/Solution-Statement).
 
 ## Earn Learning points to get more rewards 🎁
 
