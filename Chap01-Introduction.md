@@ -6,11 +6,13 @@ Welcome to the project to build patrolling enemies. Enemies are an important par
 
 Your enemies can have a specific health, or you can decide not to give them any. The player's health can be damaged based on a condition that interacts with the enemy.
 
-Fir this simple one, I will show you hoe enemies can be created and made to function using a simple C# script.
+For this simple one, I will show you how enemies can be created and made to function using a simple C# script.
 
 So, are you excited yet? 
 
 ![](https://media.giphy.com/media/TlduPqRW7d2uAyr4n3/giphy.gif)
+
+Don't forget to clone the [github repository](https://github.com/outscal/Patrolling-Enemies/tree/Problem-Statement) for this project.
 
 Can you think of any game that uses enemies patrolling a speficic area in game?
 
