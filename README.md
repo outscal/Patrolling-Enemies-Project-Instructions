@@ -12,7 +12,7 @@ So, are you excited yet?
 
 ![](https://media.giphy.com/media/TlduPqRW7d2uAyr4n3/giphy.gif)
 
-Don't forget to clone the [github repository](https://github.com/outscal/Patrolling-Enemies/tree/Problem-Statement) for this project.
+### Don't forget to clone the [Github Repository](https://github.com/outscal/Patrolling-Enemies/tree/Problem-Statement) for this project.
 
 Can you think of any game that uses enemies patrolling a speficic area in game?
 
