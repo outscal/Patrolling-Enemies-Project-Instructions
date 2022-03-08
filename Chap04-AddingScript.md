@@ -10,9 +10,19 @@ You can create a new C# script in unity by right-clicking any folder in the Proj
 
 The name of the script will be the name of the class that woud be created using this.
 
-So, let's think about this. The enemy needs to keep moving every frame using a speed value that can be input in the inspector. The following can be added in teh script:
+So, let's think about this. The enemy needs to keep moving every frame using a speed value that can be input in the inspector. The following can be added in the script:
 
-![translate_script](https://user-images.githubusercontent.com/44625252/154814542-a48c67c5-9b4c-44da-b684-110c7230ded8.png)
+```
+   public float speed;
+   public float distance;
+   private bool movingRight = true;
+   public Transform groundDetection;
+   
+   private void Update()
+   {
+       transform.Translate(Vector2.right * speed * Time.deltaTime);
+   }
+```
 
 For the next part, the enemy needs to change its direction of movement when it encounters the end of any platform. A very good use case here is of Raycasting. We can use another object within somehwere in the enemy object to send rays that hits downward.
 
@@ -22,7 +32,23 @@ Let's call this object 'Ground Detection'
 
 Some lines in our script can be added to send rays downwards and check if the rays are touching a collider or not. If not, then we know that there is no other object down and the enemy movement can be triggered to change in opposite direction.
 
-![Raycast](https://user-images.githubusercontent.com/44625252/154814745-4f4df615-4318-451b-bf35-cd4556713a78.png)
+```
+        RaycastHit2D groundInfo = Physics2D.Raycast(groundDetection.position, Vector2.down, distance);
+
+        if (!groundInfo.collider)
+        {
+            if (movingRight)
+            {
+                transform.eulerAngles = new Vector3(0, -180, 0);
+                movingRight = false;
+            }
+            else
+            {
+                transform.eulerAngles = new Vector3(0, 0, 0);
+                movingRight = true;
+            }
+        }
+```
 
 What we are doing here, is change the rotation transform of the enemy to -180 or 0 based on the current direction of the enemy. The 'movingRight' variable is made to be true at start, hence, we should only place an enemy that is supposed to move to to the right, of course while placing itself then, the rotation can be changed to start enemy movement from right to left.
 
