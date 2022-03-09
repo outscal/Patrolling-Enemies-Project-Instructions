@@ -22,9 +22,7 @@ You can also click here - [Click Here!](https://academy.outscal.com/welcome/buil
 
 Think of other ways enemy can patrol, for example, in a vertical platform, enemeies need to be attached to the platform and move up and down instead of left and right.
 
-![](https://media.giphy.com/media/IedrY2VP5IO5ivDQAD/giphy.gif)
-
-You can also go through our other courses here - [Courses](https://academy.outscal.com/welcome)
+You can continue by adding a health and damage system in your game - [Unity Health and Damage System](https://academy.outscal.com/unity2d-project-health-and-damage-system/)
 
 We have an active community to help you out as well. Join us here - [Discord](https://discord.com/invite/R4hfXhsWjN)
 
